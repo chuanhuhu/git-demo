@@ -1,2 +1,3 @@
 welcom to use git
 hot-fix master text
+hot-fix hot-fix text
